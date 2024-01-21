@@ -21,7 +21,7 @@ section {
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             margin-bottom: 30px;
             text-align: center; /* Center the content in the section */
-		color: #A52A2A
+		color: #000000
         }
 
         }
